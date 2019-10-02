@@ -406,8 +406,10 @@ nav ul li a {
     width: 70%;
     background-color: #b8a07e;
 }
-
-
+.software{
+    margin: 15px;
+    display: inline-block;
+}
 
 #journal, #journal-blog {
     height: auto;
