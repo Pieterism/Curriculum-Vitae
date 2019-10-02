@@ -402,6 +402,12 @@ nav ul li a {
     background-color: #b8a07e;
 }
 
+.sql {
+    width: 70%;
+    background-color: #b8a07e;
+}
+
+
 
 #journal, #journal-blog {
     height: auto;
