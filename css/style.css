@@ -370,15 +370,23 @@ nav ul li a {
 }
 
 .skillbox {
-    margin:auto;
+    margin: auto;
+    position: relative;
     padding-left: 10px;
     padding-right: 10px;
     display: inline-block;
     text-align: center;
+    align-items: center;
 
 }
-.skilltext{
 
+.skilltext {
+    position: absolute;
+    padding: 15px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 .java {
@@ -420,10 +428,30 @@ nav ul li a {
     width: 70%;
     background-color: #b8a07e;
 }
-.software{
+
+.software {
     margin: 15px;
     display: inline-block;
 }
+
+.filledDot {
+    height: 15px;
+    margin-right: 10px;
+    width: 15px;
+    background-color: #b8a07e;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.emptyDot {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: inline-block;
+}
+
 
 #journal, #journal-blog {
     height: auto;

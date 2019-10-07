@@ -74,23 +74,6 @@
     margin-bottom: 30px;
   }
 
-  .progress {
-    width: 100%;
-    height: 5px;
-    background-color: #ddd;
-  }
-
-  .skills {
-    text-align: right;
-    height: 5px;
-    color: white;
-  }
-
-  .skills .html {width: 90%; background-color: #4CAF50;}
-  .css {width: 80%; background-color: #2196F3;}
-  .js {width: 65%; background-color: #f44336;}
-  .php {width: 60%; background-color: #808080;}
-
   /* Contact */
   .contact-contact {
     margin-bottom: 30px;
