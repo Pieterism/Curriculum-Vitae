@@ -6,8 +6,6 @@ $(document).ready(function () {
     // ========================================================================= //
     //  //SMOOTH SCROLL
     // ========================================================================= //
-
-
     $(document).on("scroll", onScroll);
 
     $('a[href^="#"]').on('click', function (e) {
@@ -35,7 +33,6 @@ $(document).ready(function () {
         });
     });
 
-
     function onScroll(event) {
         if ($('.home').length) {
             var scrollPos = $(document).scrollTop();
@@ -49,8 +46,6 @@ $(document).ready(function () {
     // ========================================================================= //
     //  //NAVBAR SHOW - HIDE
     // ========================================================================= //
-
-
     $(window).scroll(function () {
         var scroll = $(window).scrollTop();
         if (scroll > 200) {
@@ -66,7 +61,6 @@ $(document).ready(function () {
     // ========================================================================= //
     //  VERTICAL TIMELINE SCROLL
     // ========================================================================= //
-
     jQuery(document).ready(function () {
         var timeline_block = $('.cd-timeline-block');
 
@@ -88,10 +82,16 @@ $(document).ready(function () {
     });
 
     // ========================================================================= //
-    //  SKILLS
+    //  RESPONSIVE MENU
+    // ========================================================================= //
+    $('.responsive').on('click', function (e) {
+        $('.nav-menu').slideToggle();
+    });
+
+    // ========================================================================= //
+    //  Pie Chart
     // ========================================================================= //
     $(document).ready(function () {
-
         $('.chart').easyPieChart({
             //your options goes here
             barColor: '#b8a07e',
@@ -101,13 +101,6 @@ $(document).ready(function () {
             lineCap: 'round',
             animate: false
         });
-    });
-    // ========================================================================= //
-    //  RESPONSIVE MENU
-    // ========================================================================= //
-
-    $('.responsive').on('click', function (e) {
-        $('.nav-menu').slideToggle();
     });
 
     // ========================================================================= //
