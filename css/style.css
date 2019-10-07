@@ -180,7 +180,8 @@ p {
 
 .subtitle {
     letter-spacing: 2px;
-    margin-top: 15px;
+    margin-top: 25px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
@@ -365,6 +366,19 @@ nav ul li a {
     margin-top: 15px;
     display: flex;
     align-items: center;
+
+}
+
+.skillbox {
+    margin:auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+.skilltext{
+
 }
 
 .java {
