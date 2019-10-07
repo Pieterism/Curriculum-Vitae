@@ -11,5 +11,6 @@
     <orderEntry type="library" name="jquery-2.0.3" level="application" />
     <orderEntry type="library" name="jquery.easypiechart" level="application" />
     <orderEntry type="library" name="easypiechart" level="application" />
+    <orderEntry type="library" name="ionicons" level="application" />
   </component>
 </module>

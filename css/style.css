@@ -369,7 +369,7 @@ nav ul li a {
 
 }
 
-.skillbox {
+.skillBox {
     margin: auto;
     position: relative;
     padding-left: 10px;
@@ -395,17 +395,17 @@ nav ul li a {
 }
 
 .cplusplus {
-    width: 50%;
+    width: 60%;
     background-color: #b8a07e;
 }
 
 .js {
-    width: 50%;
+    width: 55%;
     background-color: #b8a07e;
 }
 
 .python {
-    width: 55%;
+    width: 60%;
     background-color: #b8a07e;
 }
 
@@ -415,12 +415,12 @@ nav ul li a {
 }
 
 .html {
-    width: 70%;
+    width: 80%;
     background-color: #b8a07e;
 }
 
 .css {
-    width: 70%;
+    width: 80%;
     background-color: #b8a07e;
 }
 
@@ -452,6 +452,20 @@ nav ul li a {
     display: inline-block;
 }
 
+.ion-icon {
+    margin-bottom: 5px;
+}
+.interestBox {
+    margin: auto;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    border-right-width: 1px ;
+    border-right-style: solid ;
+}
 
 #journal, #journal-blog {
     height: auto;
