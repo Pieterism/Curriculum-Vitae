@@ -70,7 +70,7 @@
     display: inline-block;
   }
   /* skills */
-  #journal .journal-block .journal-info {
+  #projects .projects-block .projects-info {
     margin-bottom: 30px;
   }
 
@@ -142,7 +142,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #projects .projects-block .projects-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -213,7 +213,7 @@
     display: inline-block;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #projects .projects-block .projects-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -283,7 +283,7 @@
     margin: 20px;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #projects .projects-block .projects-info {
     margin-bottom: 30px;
   }
   /* Contact */
@@ -353,7 +353,7 @@
     margin: 20px;
   }
   /* journal */
-  #journal .journal-block .journal-info {
+  #projects .projects-block .projects-info {
     margin-bottom: 30px;
   }
   /* Contact */

@@ -351,7 +351,6 @@ nav ul li a {
     margin-bottom: 30px;
 }
 
-
 /*-----------------------------------------------------------------------------------*/
 /*  Skills
 /*-----------------------------------------------------------------------------------*/
@@ -467,7 +466,11 @@ nav ul li a {
     border-right-style: solid ;
 }
 
-#journal, #journal-blog {
+/*-----------------------------------------------------------------------------------*/
+/*  Projects
+/*-----------------------------------------------------------------------------------*/
+
+#projects, #projects-blog {
     height: auto;
     width: 100%;
     background: #faf7fa;
@@ -475,31 +478,32 @@ nav ul li a {
     position: relative;
 }
 
-#journal-blog {
+#projects-blog {
     background: #faf7fa;
     padding-bottom: 30px;
 }
 
-#journal .journal-block {
+#projects .projects-block {
     display: inline-block;
     height: auto;
     width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#projects .projects-block .projects-info {
     position: relative;
 }
 
-.journal-block .journal-info img {
+.projects-block .projects-info img {
     max-width: 100%;
 }
 
-.journal-block .journal-info .journal-txt {
+.projects-block .projects-info .projects-txt {
     padding: 25px 0px;
     position: relative;
+    text-align: center;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.projects-block .projects-info .projects-txt h4 a {
     display: block;
     font-size: 19px;
     line-height: 24px;
@@ -513,7 +517,7 @@ nav ul li a {
     transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.projects-block .projects-info .projects-txt h4 a:hover {
     color: #b8a07e;
     -moz-transition: all 0.5s ease-in-out 0s;
     -ms-transition: all 0.5s ease-in-out 0s;
@@ -522,13 +526,28 @@ nav ul li a {
     transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.projects-block .projects-info .projects-txt p {
     margin: 0;
     font-size: 14px;
     line-height: 24px;
 }
 
+.assignment{
+    padding: 0px auto 20px;
+    text-transform: uppercase;
+}
 
+.description{
+    padding-top: 15px;
+    text-align: justify;
+}
+
+.img-responsive{
+    margin:auto;
+}
+.project-title{
+    font-weight: bold;
+}
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
 /*-----------------------------------------------------------------------------------*/
@@ -581,7 +600,7 @@ nav ul li a {
 #footer p {
     font-size: 10px;
     letter-spacing: 0.1em;
-    font-weight: 50;
+    font-weight: 100;
     margin-top: 0;
     text-transform: uppercase;
 }
