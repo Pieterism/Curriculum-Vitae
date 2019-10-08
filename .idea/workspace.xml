@@ -3,20 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5a1316a-10de-4206-b4b3-48e810aa82bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/boots.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/brain.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/data-science.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/education.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logistic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/machine-learning.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/snowboard.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +62,7 @@
       <workItem from="1569927346363" duration="6895000" />
       <workItem from="1570004187305" duration="2940000" />
       <workItem from="1570441322449" duration="12373000" />
-      <workItem from="1570465787002" duration="11316000" />
+      <workItem from="1570465787002" duration="12152000" />
     </task>
     <servers />
   </component>
