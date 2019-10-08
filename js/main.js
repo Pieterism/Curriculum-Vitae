@@ -111,7 +111,7 @@ $(document).ready(function () {
 
     $(function () {
         typed.typed({
-            strings: ["Pieter Vanderhaegen.", "Software Engineer.", "Programmer.", "Developer."],
+            strings: ["Pieter Vanderhaegen.", "a Software Engineer.", "a Programmer.", "a Developer."],
             typeSpeed: 80,
             loop: true,
         });
