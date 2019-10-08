@@ -152,6 +152,7 @@ p {
 .paddsection {
     padding-top: 90px;
     padding-bottom: 90px;
+    background: #fff;
 }
 
 .paddsection-dark {
@@ -473,13 +474,11 @@ nav ul li a {
 #projects, #projects-blog {
     height: auto;
     width: 100%;
-    background: #faf7fa;
     padding-bottom: 60px;
     position: relative;
 }
 
 #projects-blog {
-    background: #faf7fa;
     padding-bottom: 30px;
 }
 
@@ -551,7 +550,6 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
 /*-----------------------------------------------------------------------------------*/
-
 #footer {
     background: #faf7fa;
     padding-top: 25px;
@@ -596,7 +594,6 @@ nav ul li a {
     -webkit-transition: all 0.5s ease-in-out 0s;
     transition: all 0.5s ease-in-out 0s;
 }
-
 #footer p {
     font-size: 10px;
     letter-spacing: 0.1em;
@@ -604,14 +601,12 @@ nav ul li a {
     margin-top: 0;
     text-transform: uppercase;
 }
-
 #footer .title {
     font-size: 25px;
     text-transform: uppercase;
     font-weight: 500;
     padding-bottom: 50px;
 }
-
 .credits {
     font-size: 10px;
 }
